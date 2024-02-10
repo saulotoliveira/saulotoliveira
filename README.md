@@ -1,14 +1,12 @@
 <h1 align="center">Oi 👋, eu sou o Saulo</h1>
 <h3 align="center">Engenheiro de Computação fascinado por ciência de dados e tecnologia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saulotoliveira&label=Profile%20views&color=0e75b6&style=flat" alt="saulotoliveira" /> </p>
-
 - 🔭 Atualmente estou trabalhando no [Centro de Desenvolvimento de Sistemas do Exército Brasileiro](https://www.eb.mil.br/)
 - 🌱 Estou estudando **machine learning, data science, IA, etc**
 - 📫 Fale comigo em **saulotavares@gmail.com**
 - 📄 Saiba mais sobre mim em [www.linkedin.com/in/saulotoliveira](www.linkedin.com/in/saulotoliveira)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saulotoliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saulotoliveira" height="30" width="40" /></a>
 </p>
