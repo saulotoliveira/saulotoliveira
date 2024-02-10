@@ -1,10 +1,10 @@
 <h1 align="center">Oi 👋, eu sou o Saulo</h1>
 <h3 align="center">Engenheiro de Computação fascinado por ciência de dados e tecnologia</h3>
 
-- 🔭 Atualmente estou trabalhando no [Centro de Desenvolvimento de Sistemas do Exército Brasileiro](https://www.eb.mil.br/)
+- 🔭 Trabalho atualmente no [Centro de Desenvolvimento de Sistemas do Exército Brasileiro](http://www.cds.eb.mil.br/)
 - 🌱 Estou estudando **machine learning, data science, IA, etc**
-- 📫 Fale comigo em **saulotavares@gmail.com**
 - 📄 Saiba mais sobre mim em [www.linkedin.com/in/saulotoliveira](www.linkedin.com/in/saulotoliveira)
+- 📫 Fale comigo em **saulotavares@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
