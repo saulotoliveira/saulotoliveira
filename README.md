@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou o Saulo</h1>
-<h3 align="center">Engenheiro de Computação</h3>
+<h3 align="center">Engenheiro de Computação fascinado por ciência de dados e tecnologia</h3>
 
 - 🔭 Atualmente estou trabalhando no [Centro de Desenvolvimento de Sistemas do Exército Brasileiro](https://www.eb.mil.br/)
 
