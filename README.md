@@ -1,18 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-18928
-Fork on GitHub
-5664
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
 preview
 <h1 align="center">Oi 👋, eu sou o Saulo</h1>
 <h3 align="center">Engenheiro de Computação fascinado por ciência de dados e tecnologia</h3>
