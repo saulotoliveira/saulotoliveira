@@ -3,8 +3,6 @@
 
 - 🔭 Atualmente estou trabalhando no [Centro de Desenvolvimento de Sistemas do Exército Brasileiro](https://www.eb.mil.br/)
 
-- 🌱 Estou estudando **machine learning, data science, IA, etc**
-
 - 📫 Fale comigo em **saulotavares@gmail.com**
 
 - 📄 Saiba mais sobre mim em [www.linkedin.com/in/saulotoliveira](www.linkedin.com/in/saulotoliveira)
