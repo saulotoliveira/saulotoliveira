@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou o Saulo</h1>
 <h3 align="center">Engenheiro de Computação fascinado por ciência de dados e tecnologia</h3>
 
-- 🔭 Trabalho atualmente na [Secretaria de Estado da Administração - SEAD]
+- 🔭 Trabalho atualmente na Secretaria de Estado da Administração - SEAD
 - 🌱 Sou Cientista de Dados
 - 📄 Saiba mais sobre mim em [www.linkedin.com/in/saulotoliveira](www.linkedin.com/in/saulotoliveira)
 - 📫 Fale comigo em **saulotavares@gmail.com**
