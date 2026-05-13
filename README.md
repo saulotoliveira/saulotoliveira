@@ -1,8 +1,8 @@
 <h1 align="center">Oi 👋, eu sou o Saulo</h1>
 <h3 align="center">Engenheiro de Computação fascinado por ciência de dados e tecnologia</h3>
 
-- 🔭 Trabalho atualmente no [Centro de Desenvolvimento de Sistemas do Exército Brasileiro](http://www.cds.eb.mil.br/)
-- 🌱 Estou estudando **machine learning, data science, IA, etc**
+- 🔭 Trabalho atualmente na [Secretaria de Estado da Administração]
+- 🌱 Sou Cientista de Dados
 - 📄 Saiba mais sobre mim em [www.linkedin.com/in/saulotoliveira](www.linkedin.com/in/saulotoliveira)
 - 📫 Fale comigo em **saulotavares@gmail.com**
 
